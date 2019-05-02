@@ -1,4 +1,4 @@
-import './css/style.css'
+import './css/style.css';
 import CardValidator from './js/CardValidator';
 
 const cardValidator = new CardValidator();

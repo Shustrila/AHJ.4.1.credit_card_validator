@@ -7,11 +7,11 @@ import DinersClub from './DinersClub';
 import World from './World';
 
 export default [
-    Visa,
-    MasterCard,
-    AmericanExpress,
-    Discover,
-    Jcb,
-    DinersClub,
-    World
-]
+  Visa,
+  MasterCard,
+  AmericanExpress,
+  Discover,
+  Jcb,
+  DinersClub,
+  World,
+];
